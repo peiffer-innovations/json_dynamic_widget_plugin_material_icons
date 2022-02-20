@@ -6,20 +6,20 @@ const RESOURCES = {
   "assets/assets/pages/material_icons.json": "fa12eb0cf99b012476166ceaa9100695",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/AssetManifest.json": "73a6ffc8c7c7bc0b677253bfcf932916",
-"assets/NOTICES": "d04473b92c6c7d3bfbf2e0936c71c28f",
+"assets/NOTICES": "73dcb453fad8122dbce2f5e2a3442885",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"index.html": "998360b226cc2d392504be3a0756e6c3",
-"/": "998360b226cc2d392504be3a0756e6c3",
+"index.html": "65f8c8004cc3e12658f4d8686cd55ecd",
+"/": "65f8c8004cc3e12658f4d8686cd55ecd",
 "version.json": "ff966ab969ba381b900e61629bfb9789",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"main.dart.js": "0679649752de581328002aa7eb5f24f7",
+"main.dart.js": "865d5b6345b698364e1a0376f681f847",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "manifest.json": "15f73b7e8a8209c2206210b3ac8dea1b",
-"canvaskit/profiling/canvaskit.js": "3783918f48ef691e230156c251169480",
-"canvaskit/profiling/canvaskit.wasm": "6d1b0fc1ec88c3110db88caa3393c580",
-"canvaskit/canvaskit.js": "62b9906717d7215a6ff4cc24efbd1b5c",
-"canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb"
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
 };
 
 // The application shell files that are downloaded before a service worker can
