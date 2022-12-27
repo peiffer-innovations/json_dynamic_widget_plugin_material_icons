@@ -17,9 +17,9 @@ const RESOURCES = {
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/pages/material_icons.json": "fa12eb0cf99b012476166ceaa9100695",
-"assets/NOTICES": "0f36601464df7a3f912b74321f5d64f4",
-"index.html": "07bb330120fd571560e249284c5d51f8",
-"/": "07bb330120fd571560e249284c5d51f8",
+"assets/NOTICES": "70b12ee7ad01bb819f9fc56a6344bb96",
+"index.html": "9998b943cd227c1779ea4716b43dcaf7",
+"/": "9998b943cd227c1779ea4716b43dcaf7",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "ff966ab969ba381b900e61629bfb9789"
 };
